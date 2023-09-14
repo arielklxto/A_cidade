@@ -7,7 +7,7 @@ Descrição:
 Fique por dentro das últimas novidades do mundo, entretenimento, tecnologia e muito mais. 
 Informação fresquinha com um toque de diversão! 😊🌍 #FiqueAtualizado #NotíciasQuentes"
 
-![Gif do site](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/projeto_annabella_gif.gif)
+![Gif do site](https://github.com/arielklxto/a_cidade/blob/main/site_noticias_gif.gif)
 
 # Tecnologias utilizadas
 - HTML / CSS
