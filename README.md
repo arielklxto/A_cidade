@@ -1,4 +1,4 @@
-# a_cidade
+# A Cidade
 Um blog fictício de notícias
 
 # Sobre o projeto
